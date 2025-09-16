@@ -37,7 +37,7 @@ This event has become super popular within the ZTM community, with amazing contr
 
 #### [![ZTM Quest](https://img.shields.io/badge/Fullstack%20Game%20PROJECT-ZTM%20Quest-00adb5?style=for-the-badge&logo=StackEdit)](https://github.com/zero-to-mastery/ztm-quest)
 
-ZTM Quest is a brand new fullstack project designed for Hacktoberfest 2025! This project invites developers of all levels to contribute, so don't hesitate to dive in. 
+ZTM Quest is back Hacktoberfest 2025! This fullstack project invites developers of all levels to contribute, so don't hesitate to dive in. 
 
 **Project Overview**
 
