@@ -1,4 +1,4 @@
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg" align="right" width="150"/>
+
 
 # 🎉 What is Hacktoberfest?
 
