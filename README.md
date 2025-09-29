@@ -47,14 +47,14 @@ ZTM Quest is back Hacktoberfest 2025! This fullstack project invites developers 
 
 ---
 
-#### [![ASCII Art](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art)
+#### [![URL Shortener](https://img.shields.io/badge/RUST%20PROJECT-URL%20SHORTENER-blue?style=for-the-badge&logo=Rust)](https://github.com/zero-to-mastery/url-shortener-ztm)
 
-Get creative with this year's **Python challenge**: converting images into ASCII Art! This project is perfect for beginners and experienced developers alike, with plenty of room for customization.
+A brand new project for 2025! This project is perfect for those wanting to build something practical in Rust
 
 **Project Overview**  
-> The goal is to enhance an ASCII generator. Whether it's improving the **Command Line Tool**, converting images on a **web page**, or experimenting with different types of digital art—the possibilities are endless! Let’s see how creative our community can be!
+> A high-performance URL shortener service built with modern Rust technologies. This service provides a simple API for creating shortened URLs and redirecting users to their original destinations.
 
-➡️ [Project Repo & Instructions](https://github.com/zero-to-mastery/ascii-art)
+➡️ [Project Repo & Instructions](https://github.com/zero-to-mastery/url-shortener-ztm)
 
 ---
 
